@@ -50,6 +50,8 @@ Abaixo estão as principais tecnologias utilizadas em meus projetos:
 
 ### eVal360 - Sistema de Avaliação 360° (2023-1)
 
+[Repositório](https://github.com/AndreWakugawa/DevMinds)
+
 **Projeto Acadêmico PBLTeX (FATEC - 1º Semestre 2023)**
 
 O primeiro projeto desenvolvido durante a graduação foi proposto pela empresa-cliente fictícia PBLTeX com o desafio de desenvolver uma aplicação de **Avaliação 360°** para uso interno da instituição de ensino.
@@ -99,6 +101,8 @@ A solução foi entregue pela equipe de desenvolvimento **DevMinds**. A aplicaç
 ***
 
 ### SGTG - Sistema Gerenciador de TGs (2023-2)
+
+[Repositório](https://github.com/AndreWakugawa/API-2-Semestre-DevMinds/tree/main)
 
 **Projeto Acadêmico FATEC (FATEC - 2º Semestre 2023)**
 
@@ -189,6 +193,8 @@ Balanceamento entre demandas de desenvolvimento, documentação e prazos acadêm
 
 ### Pipeline Configurator - Configuração de Pipeline de Dados (2024-1)
 
+[Repositório](https://github.com/Equipe-Void/drconvert)
+
 **Projeto em parceria com Dom Rock (FATEC - 2024-1)**
 
 O problema foi apresentado pela parceira **Dom Rock**, especialista em tratamento de dados. O desafio foi desenvolver uma aplicação para automatizar e configurar as etapas iniciais de uma **pipeline de tratamento de dados** (**Landing Zone**, **Bronze** e **Silver**).
@@ -241,6 +247,12 @@ A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. �
 ***
 
 ### Geo IoT - Sistema de Geolocalização (2024-2)
+
+[Repositório principal](https://github.com/AndreWakugawa/geo-iot-2024-1)
+
+[Repositório do frontend](https://github.com/AndreWakugawa/geoIoT-client)
+
+[Repositório do backend](https://github.com/AndreWakugawa/geoIoT-server)
 
 **Projeto Acadêmico FATEC (FATEC - 2º Semestre 2024)**
 
@@ -328,6 +340,12 @@ A equipe **Manolito** propôs e entregou o '**Geo IoT**', uma **aplicação web 
 
 ### Youtan Dash - Dashboard de Indicadores de Projetos (2025-1)
 
+[Repositório principal](https://github.com/manolito-fatec/dashflow-2025-1)
+
+[Repositório do frontend](https://github.com/manolito-fatec/web-client-2025-1)
+
+[Repositório do backend](https://github.com/manolito-fatec/web-server-2025-1)
+
 **Projeto em parceria com Youtan (FATEC - 2025-1)**
 
 O desafio proposto pela empresa **Youtan** consistiu em desenvolver uma aplicação para uso interno que se integra a ferramentas de gestão de projeto (Taiga, Jira, Trello). O objetivo é gerar e visualizar **indicadores sobre o andamento dos projetos**.
@@ -400,6 +418,15 @@ A solução, o '**Youtan Dash**', é uma **aplicação web full-stack** com Fron
 ***
 
 ### Pardal - Gerenciamento Inteligente de Tickets e LGPD (2025-2)
+
+
+[Repositório principal](https://github.com/AndreWakugawa/pardal-2025)
+
+[Repositório do frontend](https://github.com/AndreWakugawa/web-client-2025-2)
+
+[Repositório do backend](https://github.com/AndreWakugawa/web-server-2025-2)
+
+[Repositório de IA](https://github.com/AndreWakugawa/ai-server-2025-2)
 
 **Projeto Final de Graduação (6º Semestre) em parceria com Pro4Tech**
 
