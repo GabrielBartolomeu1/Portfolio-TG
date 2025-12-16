@@ -72,21 +72,23 @@ A solução foi entregue pela equipe de desenvolvimento **DevMinds**. A aplicaç
 
 ### 🌟 Contribuições Pessoais
 
-#### 📊 Dashboards e Análise de Dados
-* **Desenvolvimento de Ferramentas de Análise:**
+<details>
+<summary>📊 Dashboards e Análise de Dados</summary>
 
-    * Implementação de algoritmos para o cálculo e exibição de **médias de desempenho** de alunos e turmas.
+* **Desenvolvimento de Ferramentas de Análise:**
+    * Implementação de algoritmos para o cálculo e exibição de **médias de desempenho** de alunos e turmas.
 
 * **Implementação de Dashboards e Visualização:**
+    * Criação de dashboards dedicados para os perfis de **alunos** e **administradores (admin)**.
+    * Desenvolvimento e integração de **Indicadores de Desempenho** por competência.
+    * Implementação de novos componentes de visualização, incluindo **gráficos de barra e área**.
+</details>
 
-    * Criação de dashboards dedicados para os perfis de **alunos** e **administradores (admin)**.
+<details>
+<summary>✨ Usabilidade e Melhorias no Sistema</summary>
 
-    * Desenvolvimento e integração de **Indicadores de Desempenho** por competência.
-
-    * Implementação de novos componentes de visualização, incluindo **gráficos de barra e área**.
-
-#### ✨ Usabilidade e Melhorias no Sistema
 * Colaboração na otimização da **navegação do usuário** no sistema, resultando em uma experiência mais intuitiva e eficiente.
+</details>
 
 ### 🔑 Hard Skills
 * **Python**
@@ -96,9 +98,9 @@ A solução foi entregue pela equipe de desenvolvimento **DevMinds**. A aplicaç
 ### 🤝 Soft Skills
 * **Trabalho em Equipe**: Como membro da equipe dividimos as tarefas igualmente para membros da equipe deixando cada um focando no seu ponto forte e assim mantendo uma organização na equipe.
 * **Comunicação**: Como membro de uma equipe trabalhando com outros desenvolvedores pela primeira vez, tive que aprender a comunicar minhas contribuições para equipe para poder me alinhar com os outros membros e mantendo um fluxo bom no desenvolvimento para que todos estivessem na mesma página.
-* **Proatividade**: Como eu tive interesse em aprender sobre a biblioteca do matplot, me despus a pegar as tasks de dashboards e implementar eles.
+* **Proatividade**: Como eu tive interesse em aprender sobre a biblioteca do matplot, me dispus a pegar as tasks de dashboards e implementar eles.
 
-***
+---
 
 ### SGTG - Sistema Gerenciador de TGs (2023-2)
 
@@ -127,18 +129,16 @@ A solução entregue foi o **SGTG** (Sistema Gerenciador de Trabalho de Graduaç
 ### 🌟 Contribuições Pessoais
 
 <details>
-<summary>Documentação</summary>
+<summary>📄 Documentação</summary>
 
 - Documentação de instalação:
-    - Dependências do projeto
-        - https://github.com/avilajp/API-2-Semestre-DevMinds/blob/0516b121890a6bfb5591926aeaba852d81bf6b8a/AppTG/Manuais/MySQLManual.pdf
-    - MySQL 
-        - https://github.com/avilajp/API-2-Semestre-DevMinds/blob/0516b121890a6bfb5591926aeaba852d81bf6b8a/AppTG/Manuais/MySQLManual.pdf
+    - Dependências do projeto
+    - Manual MySQL
 - Documentação do manual do usuário
 </details>
 
 <details>
-<summary>Telas</summary>
+<summary>🖥️ Telas e Interface</summary>
 
 - Implementação de:
 
@@ -176,22 +176,15 @@ A solução entregue foi o **SGTG** (Sistema Gerenciador de Trabalho de Graduaç
 </details>
 
 ### 🔑 Hard Skills
-
 - Java
 - JavaFX
 - MySQL
 
-
 ### 🤝 Soft Skills
+* **Trabalho em Equipe**: Colaboração efetiva com desenvolvedores para manter um bom fluxo do andamento das tarefas distribuídas entre nós.
+* **Gestão de Tempo e Priorização**: Balanceamento entre demandas de desenvolvimento, documentação e prazos acadêmicos, garantindo entregas iterativas dentro do cronograma.
 
-**Trabalho em Equipe**
-
-Colaboração efetiva com desenvolvedores para manter um bom fluxo do andamento das tarefas distribuidas entre nós.
-
-**Gestão de Tempo e Priorização**
-
-Balanceamento entre demandas de desenvolvimento, documentação e prazos acadêmicos, garantindo entregas iterativas dentro do cronograma.
-
+---
 
 ### Pipeline Configurator - Configuração de Pipeline de Dados (2024-1)
 
@@ -203,7 +196,7 @@ O problema foi apresentado pela parceira **Dom Rock**, especialista em tratament
 
 A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. É uma **aplicação web full-stack** desenvolvida com Front-end **Vue.js**, servidor **Java Spring Boot** e banco de dados **MySQL**.
 
-#### Funcionalidades
+#### Principais Funcionalidades
 * **🛬 Landing Zone**: Entrada de arquivos CSV para ingestão inicial.
 * **🥉 Bronze**: Definição de **ID único**, seleção de colunas para geração de **hash** e exclusão de dados.
 * **🥈 Silver**: Aplicação de **regras de negócio** e criação de **relacionamentos 'De/Para'**.
@@ -216,9 +209,7 @@ A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. �
 ### 🌟 Contribuições Pessoais
 
 <details>
-<summary>💻 Backend (Java/Spring Boot) e Arquitetura</summary>
-
-*Desenvolvimento em Java/Spring Boot*
+<summary>💻 Back-end (Java/Spring Boot) e Arquitetura</summary>
 
 * **APIs REST:** Implementação dos *endpoints* em **Spring Boot** para o **CRUD** das configurações de Bronze e Silver.
 * **Modelagem MySQL:** Criação das estruturas de banco de dados para persistir definições de *hash* e as regras 'De/Para'.
@@ -226,13 +217,9 @@ A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. �
 </details>
 
 <details>
-<summary>🌐 Frontend e Interação (UX)</summary>
-
-*Desenvolvimento em Vue.js e TypeScript*
+<summary>🌐 Front-end e Interação (UX)</summary>
 
 * **Interface Reativa:** Construção de componentes **Vue.js** para a interface do configurador, focando na usabilidade para a definição de regras complexas.
-
-* **Interface Reativa**: Construção de componentes **Vue.js** para a interface do configurador.
 * **Testes**: Realização de **testes unitários** no backend.
 </details>
 
@@ -246,15 +233,11 @@ A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. �
 * **Solução de Problemas Complexos (Pipeline de Dados)**: Apliquei raciocínio lógico e analítico para desenhar a arquitetura da pipeline (Landing Zone, Bronze, Silver) e traduzir as complexas regras de negócio da Dom Rock (hash, exclusão, De/Para) em estruturas de dados e APIs REST funcionais.
 * **Comunicação Técnica e Não-Técnica**: Mantive uma comunicação clara sobre o progresso e os desafios técnicos (APIs, persistência de dados) tanto dentro da equipe quanto com a parceira Dom Rock, garantindo o alinhamento das entregas com os requisitos do projeto.
 
-***
+---
 
 ### Geo IoT - Sistema de Geolocalização (2024-2)
 
-[Repositório principal](https://github.com/AndreWakugawa/geo-iot-2024-1)
-
-[Repositório do frontend](https://github.com/AndreWakugawa/geoIoT-client)
-
-[Repositório do backend](https://github.com/AndreWakugawa/geoIoT-server)
+[Repositório principal](https://github.com/AndreWakugawa/geo-iot-2024-1) | [Front-end](https://github.com/AndreWakugawa/geoIoT-client) | [Back-end](https://github.com/AndreWakugawa/geoIoT-server)
 
 **Projeto Acadêmico FATEC (FATEC - 2º Semestre 2024)**
 
@@ -262,7 +245,7 @@ O desafio foi proposto pela parceira **Ito1**, especializada em tecnologias IoT.
 
 A equipe **Manolito** propôs e entregou o '**Geo IoT**', uma **aplicação web full-stack** com Front-end **Vue.js**, servidor **Java Spring Boot** e banco de dados **Oracle Cloud**.
 
-#### Funcionalidades
+#### Principais Funcionalidades
 * **Plotagem dos dados** de geolocalização em um mapa.
 * **Filtros** de dispositivos por tipo, localização e período.
 * **Geofencing**: Criação de áreas de interesse para alertas.
@@ -333,20 +316,14 @@ A equipe **Manolito** propôs e entregou o '**Geo IoT**', uma **aplicação web 
 * **Vue** e **TypeScript**.
 
 ### 🤝 Soft Skills
+* **Comunicação**: Comunicação sobre andamento de tarefas tanto com o SM quanto com os desenvolvedores para manter todos alinhados.
+* **Adaptabilidade**: Ajuste contínuo a mudanças de escopo e feedback dos usuários durante o ciclo de desenvolvimento ágil.
 
-**Comunicação**: Comunicação sobre andamento de tarefas tanto com o SM quanto com os desenvolvedores para manter todos alinhados.
-
-**Adaptabilidade**: Ajuste contínuo a mudanças de escopo e feedback dos usuários durante o ciclo de desenvolvimento ágil.
-
-***
+---
 
 ### Youtan Dash - Dashboard de Indicadores de Projetos (2025-1)
 
-[Repositório principal](https://github.com/manolito-fatec/dashflow-2025-1)
-
-[Repositório do frontend](https://github.com/manolito-fatec/web-client-2025-1)
-
-[Repositório do backend](https://github.com/manolito-fatec/web-server-2025-1)
+[Repositório principal](https://github.com/manolito-fatec/dashflow-2025-1) | [Front-end](https://github.com/manolito-fatec/web-client-2025-1) | [Back-end](https://github.com/manolito-fatec/web-server-2025-1)
 
 **Projeto em parceria com Youtan (FATEC - 2025-1)**
 
@@ -354,13 +331,13 @@ O desafio proposto pela empresa **Youtan** consistiu em desenvolver uma aplicaç
 
 A solução, o '**Youtan Dash**', é uma **aplicação web full-stack** com Front-end em **Vue.js**, servidor **Java Spring Boot** com serviços **Apache Spark** e banco de dados **PostgreSQL**.
 
-## Funcionalidades
+#### Principais Funcionalidades
 * **Integração com APIs** das ferramentas Taiga, Jira e Trello.
 * **Dashboards com métricas** de produtividade (Tasks/Cards criados/completados, tempo médio de finalização, retrabalhos).
 * **Controle de acesso** por níveis de usuário.
 * **Exportação de dados** de Dashboards para `.csv`.
 
-## Tecnologias Utilizadas
+#### Tecnologias Utilizadas
 * **Back-end**: **Java**, **Spring Boot**, **Spring Security**, **PostgreSQL**, **Apache Spark** (para ETL), **Flyway**, **JWT**, **JUnit**.
 * **Front-end**: **Vue.js**, **TypeScript**, **PrimeVue**, **Axios**.
 * **DevOps**: **GitHub Actions** (CI/CD), **SonarCloud**.
@@ -369,8 +346,6 @@ A solução, o '**Youtan Dash**', é uma **aplicação web full-stack** com Fron
 
 <details>
 <summary>💡 ETL, Data Analytics e Integração de Dados</summary>
-
-*Desenvolvimento do Back-end de Integração e Processamento*
 
 * **Integração e ETL com Apache Spark**: Fui responsável pela engenharia de dados (Extração, Transformação e Carga). Desenvolvi os serviços em **Java** e **Spring Boot** que utilizam o **Apache Spark** para extrair dados das APIs REST do Taiga, Jira e Trello, realizar o tratamento (limpeza, normalização) e carregar no Data Warehouse.
     * **Integrações Suportadas**:
@@ -405,7 +380,6 @@ A solução, o '**Youtan Dash**', é uma **aplicação web full-stack** com Fron
 * **Testes Automatizados**: Contribuição na escrita de testes unitários (**JUnit**) para garantir a robustez e a confiabilidade dos serviços de ETL e das APIs de processamento de dados.
 </details>
 
-
 ### 🔑 Hard Skills
 * **Java** e **Spring Boot**
 * **Apache Spark**
@@ -417,18 +391,11 @@ A solução, o '**Youtan Dash**', é uma **aplicação web full-stack** com Fron
 * **Orientação a Resultados (Indicadores)**: Foco em traduzir requisitos de negócio (KPIs de projeto) em soluções técnicas de ETL e Dashboards, garantindo que o sistema entregue valor imediato à empresa parceira (Youtan).
 * **Organização e Qualidade de Processo**: Responsabilidade pela implementação da rastreabilidade de requisitos, assegurando a conformidade do produto final com as especificações iniciais e mantendo um ciclo de desenvolvimento (DevOps) transparente.
 
-***
+---
 
 ### Pardal - Gerenciamento Inteligente de Tickets e LGPD (2025-2)
 
-
-[Repositório principal](https://github.com/AndreWakugawa/pardal-2025)
-
-[Repositório do frontend](https://github.com/AndreWakugawa/web-client-2025-2)
-
-[Repositório do backend](https://github.com/AndreWakugawa/web-server-2025-2)
-
-[Repositório de IA](https://github.com/AndreWakugawa/ai-server-2025-2)
+[Repositório principal](https://github.com/AndreWakugawa/pardal-2025) | [Front-end](https://github.com/AndreWakugawa/web-client-2025-2) | [Back-end](https://github.com/AndreWakugawa/web-server-2025-2) | [IA Server](https://github.com/AndreWakugawa/ai-server-2025-2)
 
 **Projeto Final de Graduação (6º Semestre) em parceria com Pro4Tech**
 
@@ -438,15 +405,14 @@ A equipe **Manolito** propôs e entregou a solução '**Pardal**', uma plataform
 
 A arquitetura envolveu um front-end em **Vue.js**, back-end em **Java Spring Boot** integrado a scripts **Python** para ETL e IA, utilizando bancos de dados **PostgreSQL** e **MongoDB**.
 
-## Funcionalidades
+#### Principais Funcionalidades
 * **Modernização LGPD**: Identificação e anonimização automática de dados sensíveis em campos de texto livre utilizando Regex e NLP (Processamento de Linguagem Natural).
 * **Insights Preditivos**: Utilização de IA para prever riscos de estouro de SLA (Service Level Agreement) e classificar tickets.
 * **Dashboards Gerenciais**: Visualização de KPIs como tempo médio de resolução, volume de tickets e taxa de recorrência.
 * **Busca Avançada**: Sistema de filtragem dinâmica por múltiplos critérios (status, categoria, agente, prioridade).
 * **Relatórios Personalizados**: Exportação de dados e gráficos dos dashboards em formatos PDF e CSV.
 
-## Tecnologias Utilizadas
-
+#### Tecnologias Utilizadas
 * **Back-end**: **Java**, **Spring Boot**, **Spring Security** (+JWT), **JPA/Hibernate**, **PostgreSQL**, **MongoDB**, **Python**, **Vault**, **Swagger**.
 * **Front-end**: **Vue.js**, **TypeScript**, **PrimeVue**, **Axios**.
 * **DevOps/Outros**: **Docker**, **IntelliJ IDEA**, **VS Code**, **Figma**.
@@ -454,7 +420,7 @@ A arquitetura envolveu um front-end em **Vue.js**, back-end em **Java Spring Boo
 ### 🌟 Contribuições Pessoais
 
 <details>
-<summary>📈 Backend e Análise de Dados (Java/Spring Boot)</summary>
+<summary>📈 Back-end e Análise de Dados (Java/Spring Boot)</summary>
 
 * **APIs Analíticas de Desempenho (KPIs):** Desenvolvi e implementei os endpoints em **Java/Spring Boot** responsáveis por calcular e expor métricas gerenciais chave, essenciais para os Dashboards:
 
@@ -476,22 +442,20 @@ A arquitetura envolveu um front-end em **Vue.js**, back-end em **Java Spring Boo
 <summary>🌐 Front-end e User Experience (Vue.js/TypeScript)</summary>
 
 * **Dashboards de Insights (Pareto):** Desenvolvi o componente **Gráfico de Pareto** em **Vue.js/PrimeVue**, traduzindo os dados de subcategorias em visualizações focadas nas prioridades de resolução (Regra 80/20).
-    
-        ![Gráfico de Pareto](images/pareto.png)
+     - ![Gráfico de Pareto](images/pareto.png)
 * **Busca Avançada e Filtragem:** Implementei as funcionalidades de filtros dinâmicos no sistema, melhorando a capacidade do usuário de segmentar tickets e encontrar informações rapidamente:
-    * Implementação e melhoria do **Filtro de Busca por Cliente**.
-    * Implementação do **Filtro de Busca por Produto**.
-    
-        ![Filtro de Busca e Insights](images/filtroInsights.png)
+    * Implementação e melhoria do **Filtro de Busca por Cliente**.
+    * Implementação do **Filtro de Busca por Produto**.
+        - ![Filtro de Busca e Insights](images/filtroInsights.png)
 * **Integração Preditiva:** Construí o componente de **Previsão de Tickets Estourarem**, garantindo a exibição clara e reativa dos alertas de risco de SLA calculados pelo backend.
-
 </details>
 
 ### 🔑 Hard Skills
-* **Java** e **Spring Boot** * **JPA Specification** e **Criteria Builder**
+* **Java** e **Spring Boot**
+* **JPA Specification** e **Criteria Builder**
 * **Vue.js** e **TypeScript**
 
 ### 🤝 Soft Skills
 * **Visão de Produto:** Foco na tradução de necessidades de negócio (monitoramento de SLA e volume de chamados) em *endpoints* de dados concretos e componentes de visualização (**Gráfico de Pareto**), garantindo que o produto entregue valor gerencial.
-* **Solução de Problemas em Arquiteturas Híbridas:** Habilidade em integrar e orquestrar serviços de backend (**Java/Spring Boot**) com diferentes tecnologias de persistência (**PostgreSQL**)
+* **Solução de Problemas em Arquiteturas Híbridas:** Habilidade em integrar e orquestrar serviços de backend (**Java/Spring Boot**) com diferentes tecnologias de persistência (**PostgreSQL**).
 * **Orientação à Qualidade:** Garantia da qualidade dos dados expostos pelos endpoints para Dashboards e foco na experiência do usuário ao desenvolver filtros de busca rápidos e intuitivos.
