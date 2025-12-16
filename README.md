@@ -91,9 +91,9 @@ A solução foi entregue pela equipe de desenvolvimento **DevMinds**. A aplicaç
 </details>
 
 ### 🔑 Hard Skills
-* **Python**
-* **Git**
-* **Matplotlib**
+* **Python**: ⭐⭐⭐
+* **Git**: ⭐⭐⭐
+* **Matplotlib**: ⭐⭐⭐
 
 ### 🤝 Soft Skills
 * **Trabalho em Equipe**: Como membro da equipe dividimos as tarefas igualmente para membros da equipe deixando cada um focando no seu ponto forte e assim mantendo uma organização na equipe.
@@ -176,9 +176,9 @@ A solução entregue foi o **SGTG** (Sistema Gerenciador de Trabalho de Graduaç
 </details>
 
 ### 🔑 Hard Skills
-- Java
-- JavaFX
-- MySQL
+- Java: ⭐⭐⭐⭐
+- JavaFX: ⭐⭐⭐
+- MySQL: ⭐⭐
 
 ### 🤝 Soft Skills
 * **Trabalho em Equipe**: Colaboração efetiva com desenvolvedores para manter um bom fluxo do andamento das tarefas distribuídas entre nós.
@@ -224,9 +224,9 @@ A solução, o '**Pipeline Configurator**', foi entregue pela equipe **Void**. �
 </details>
 
 ### 🔑 Hard Skills
-* **Java** e **Spring Boot**: Autonomia (Security, JWT, mapeamento de entidades, serviços e *controllers*).
-* **SQL**: Autonomia (DDL e DQL).
-* **Vue.js** e **TypeScript**.
+* **Java** e **Spring Boot**: Autonomia (Security, JWT, mapeamento de entidades, serviços e *controllers*).: ⭐⭐⭐⭐
+* **SQL**: Autonomia (DDL e DQL).: ⭐⭐⭐⭐
+* **Vue.js** e **TypeScript**.: ⭐⭐
 
 ### 🤝 Soft Skills
 * **Trabalho em Equipe e Colaboração Interfuncional**: Como membro da equipe, colaborei ativamente com desenvolvedores front-end e back-end para garantir a integração perfeita entre os serviços e a interface.
@@ -310,10 +310,10 @@ A equipe **Manolito** propôs e entregou o '**Geo IoT**', uma **aplicação web 
 </details>
 
 ### 🔑 Hard Skills
-* **Java** e **Spring Boot**
-* **Oracle Cloud**
-* **CI** e **Git/GitHub**.
-* **Vue** e **TypeScript**.
+* **Java** e **Spring Boot**: ⭐⭐⭐⭐⭐
+* **Oracle Cloud**: ⭐⭐⭐
+* **CI** e **Git/GitHub**: ⭐⭐⭐⭐⭐
+* **Vue** e **TypeScript**.: ⭐⭐⭐⭐⭐
 
 ### 🤝 Soft Skills
 * **Comunicação**: Comunicação sobre andamento de tarefas tanto com o SM quanto com os desenvolvedores para manter todos alinhados.
@@ -381,10 +381,10 @@ A solução, o '**Youtan Dash**', é uma **aplicação web full-stack** com Fron
 </details>
 
 ### 🔑 Hard Skills
-* **Java** e **Spring Boot**
-* **Apache Spark**
-* **PostgreSQL**
-* **Vue.js** e **TypeScript**
+* **Java** e **Spring Boot**: ⭐⭐⭐⭐⭐
+* **Apache Spark**: ⭐⭐⭐⭐
+* **PostgreSQL**: ⭐⭐⭐⭐
+* **Vue.js** e **TypeScript**: ⭐⭐⭐⭐⭐
 
 ### 🤝 Soft Skills
 * **Visão Sistêmica e Arquitetura**: Habilidade para desenhar e integrar um fluxo de dados complexo (APIs externas -> Spark ETL -> DW -> APIs Spring Boot) em uma arquitetura full-stack coesa.
@@ -451,9 +451,9 @@ A arquitetura envolveu um front-end em **Vue.js**, back-end em **Java Spring Boo
 </details>
 
 ### 🔑 Hard Skills
-* **Java** e **Spring Boot**
-* **JPA Specification** e **Criteria Builder**
-* **Vue.js** e **TypeScript**
+* **Java** e **Spring Boot**: ⭐⭐⭐⭐⭐
+* **JPA Specification** e **Criteria Builder**: ⭐⭐⭐
+* **Vue.js** e **TypeScript**: ⭐⭐⭐⭐⭐
 
 ### 🤝 Soft Skills
 * **Visão de Produto:** Foco na tradução de necessidades de negócio (monitoramento de SLA e volume de chamados) em *endpoints* de dados concretos e componentes de visualização (**Gráfico de Pareto**), garantindo que o produto entregue valor gerencial.
