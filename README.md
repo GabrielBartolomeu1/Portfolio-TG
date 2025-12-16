@@ -124,6 +124,8 @@ A solução entregue foi o **SGTG** (Sistema Gerenciador de Trabalho de Graduaç
 * **JDBC**: Conexão entre Java e MySQL.
 * **Git/Github**.
 
+### 🌟 Contribuições Pessoais
+
 <details>
 <summary>Documentação</summary>
 
